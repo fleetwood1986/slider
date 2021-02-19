@@ -1,0 +1,2 @@
+img{height:150px;width:250px;border-radius:50%;object-fit:cover}.App{display:flex;justify-content:center}.person{height:500px;width:500px;position:absolute;overflow:hidden;opacity:0}.btn{display:flex;align-items:center;justify-content:space-between}.activeSlide{opacity:1;transform:translateX(0)}.lastSlide{transform:translateX(-100%)}.nextSlide{transform:translateX(100%)}
+/*# sourceMappingURL=main.f186ffbd.chunk.css.map */
